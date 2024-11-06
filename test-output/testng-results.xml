@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-06T18:54:09 IST" name="Default suite" finished-at="2024-11-06T18:54:21 IST" duration-ms="12794">
+    <groups>
+    </groups>
+    <test started-at="2024-11-06T18:54:09 IST" name="Default test" finished-at="2024-11-06T18:54:21 IST" duration-ms="12794">
+      <class name="testpkg.Testautomation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.Testautomation@d86a6f]" started-at="2024-11-06T18:54:09 IST" name="setup" finished-at="2024-11-06T18:54:15 IST" duration-ms="6499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="textverify()[pri:0, instance:testpkg.Testautomation@d86a6f]" started-at="2024-11-06T18:54:15 IST" name="textverify" finished-at="2024-11-06T18:54:21 IST" duration-ms="6220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textverify -->
+      </class> <!-- testpkg.Testautomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
